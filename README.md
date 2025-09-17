@@ -45,6 +45,7 @@ An intelligent agent that fetches unread emails and classifies them into categor
 1. Open `ai_agent.ipynb` in Jupyter Notebook / VS Code.
 2. Add your Gemini API key in the notebook where indicated.
 3. Run all cells to fetch, classify, and summarise emails.
+4. Download the Folder `Classifier Model` from the [Drive Link](https://drive.google.com/drive/folders/1Yw72ZvnnLRxgiK4q03Xr4azHwvPGqbx6?usp=drive_link) and add it to the root of the repo
 
 ---
 ## 📕 Reports
