@@ -47,6 +47,11 @@ An intelligent agent that fetches unread emails and classifies them into categor
 3. Run all cells to fetch, classify, and summarise emails.
 
 ---
+## 📕 Reports
+1. AI Agent Architecture
+2. Data Science Report
+3. Interaction Logs
+   All of the Above are Present in the `Reports/` Folder of the repo 
 
 ## 🔑 API Key
 This project requires an OpenAI API key for summarisation.
