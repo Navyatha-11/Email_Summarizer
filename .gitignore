@@ -1,0 +1,17 @@
+# --- Credentials ---
+# Never commit private keys or tokens
+credentials.json
+token.json
+
+# --- Python Cache ---
+# Ignore compiler files and cache folders
+__pycache__/
+*.pyc
+
+# --- Jupyter Notebook ---
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Caches
+results/
+hello/
