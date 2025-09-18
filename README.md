@@ -14,17 +14,15 @@ An intelligent agent that fetches unread emails and classifies them into categor
 
 ## ✨ Features
 - Fetches unread emails securely
-- Classifies emails (Important / Unimportant / Promotional)
+- Classifies emails (Important / Unimportant)
 - Generates concise AI-powered summaries
-- Saves results into organized logs
 
 ---
 
 ## 📂 Project Structure
 - `data/` : placeholder for datasets (not uploaded due to size)
 - `logs/` : agent logs
-- `results/` : classification & summary outputs
-- `ai_agent.ipynb` : main notebook to run summariser
+- `ai_agent.ipynb` : main notebook to run Email summariser
 
 ---
 
@@ -55,7 +53,7 @@ An intelligent agent that fetches unread emails and classifies them into categor
    All of the Above are Present in the `Reports/` Folder of the repo 
 
 ## 🔑 API Key
-This project requires an OpenAI API key for summarisation.
+This project requires an Gemini API key for summarisation.
 
 - Get your key from: [https://aistudio.google.com/](https://aistudio.google.com/)
 - Set it in your notebook:
