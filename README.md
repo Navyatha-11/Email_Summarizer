@@ -83,4 +83,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the MIT License.
 
 ## 📹 Demo Live Video
-![Click here to watch the video](https://drive.google.com/file/d/1BMYQS4iWV68ABhuH4OG2diX6VTxPf15Q/view?usp=drive_link)
+[Click here to watch the video](https://drive.google.com/file/d/1BMYQS4iWV68ABhuH4OG2diX6VTxPf15Q/view?usp=drive_link)
